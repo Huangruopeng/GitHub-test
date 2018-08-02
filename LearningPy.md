@@ -65,9 +65,9 @@
    ```
 
 **变量(Variable)**
-* 变量采用标识符(名字)来表示，关联标识符的过程叫命名
+* 变量采用标识符(名字)来表示，关联标识符的过程叫命名</br>
   &emsp; TempStr 是变量名字
-* 可以使用等号 (=) 向变量赋值或修改， =被称为赋值符号
+* 可以使用等号 (=) 向变量赋值或修改， =被称为赋值符号</br>
   &emsp;TempStr = "82F "#向变量 TempStr 赋值 "82F "</br>
 :bulb:<font color=DimGray size=3>_It's like MatLab, needn't to preclaim the variable._</font>
 
