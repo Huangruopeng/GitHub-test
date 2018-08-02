@@ -51,7 +51,7 @@
 **缩进(indentation)**
 * **严格明确**：缩进是语法的一部分，缩进不正确程序运行错误
 * **所属关系**：表达代码间包含和层次关系的唯一手段
-* **长度一致**：程序内一致即可，一般用4个空格或1个Tab
+* **长度一致**：程序内一致即可，一般用4个空格或1个Tab</br>
      :bulb:<font color=DimGray size=3>_学到这里感觉头一次感到缩进对代码的重要性，以前写C/C++,MatLab和VHDL时还真没遇到过因为缩进出现的Bug，只是认为缩进只是为了阅读方便而已，因为这些语言都会有特定的字符来确定程序的结构。比如C/C++会有“{  }”来避免由于缩进导致的Bug，Matlab和VHDL在if语句中也会有end if 来结尾，Python竟然靠缩进！ 也许是还没深入学习（可能到后面会有不一样的理解）。_</font> 
 
 **注释(Comment)**
@@ -68,7 +68,7 @@
 * 变量采用标识符(名字)来表示，关联标识符的过程叫命名
   &emsp; TempStr 是变量名字
 * 可以使用等号 (=) 向变量赋值或修改， =被称为赋值符号
-  &emsp;TempStr = "82F "#向变量 TempStr 赋值 "82F "
+  &emsp;TempStr = "82F "#向变量 TempStr 赋值 "82F "</br>
 :bulb:<font color=DimGray size=3>_It's like MatLab, needn't to preclaim the variable._</font>
 
 **Name**
@@ -77,7 +77,7 @@
    Python and python are different variables, 123Python is illegal
 
 ***
-**And So on**
+**And So on**</br>
 :bulb:<font color=DimGray size=3>_It's waste a lot of my time to summarize the basics. You can find similar points from many websites。_</font>
   
   
