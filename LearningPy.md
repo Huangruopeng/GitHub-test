@@ -78,7 +78,7 @@
 
 ***
 **And So on**</br>
-:bulb:<font color=DimGray size=3>_It's waste a lot of my time to summarize the basics. You can find similar points from many websites。_</font>
+:bulb:<font color=DimGray size=3>_It's waste a lot of my time to summarize the basics. You can find similar points from many websites or check my upload pdfs。_</font>
   
   
 
